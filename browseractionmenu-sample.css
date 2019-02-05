@@ -1,0 +1,37 @@
+
+/*sample styling for keyboard shortcut list in browseractionmenu*/
+.menu-keydown-container,
+.keydown-list {
+	background-color: #fff !important;
+	color: #000;
+	border-color: transparent;
+}
+.keydown-list ._row {
+	display: flex;
+	align-items: center;
+	flex-wrap: wrap;
+	padding: 5px 0 5px 5px;
+}
+.keydown-list ._row:hover { background-color:#E7ECF5; }
+.keydown-list ._row .keydown-button {
+	display: inline-flex;
+	align-items: center;
+	justify-content: center;
+	position: relative;
+	background-color: #fff;
+	width: 100px;
+	height: 32px;
+	border: 1px solid;
+	box-sizing: border-box;
+	font-weight: bold;
+}
+.keydown-list ._row > span {
+	display: inline-flex;
+	flex-wrap: wrap;
+	min-width: 300px;
+	max-width: 315px;
+	padding-left: 15px;
+	box-sizing: border-box;
+}
+.keydown-list ._row span > span { display: block; width: 100%; }
+.keydown-list ._row span > span:first-child { font-weight: bold; }
