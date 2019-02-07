@@ -1,11 +1,11 @@
 # chrome-extension-unified-keydown
 Script for Chrome extensions to define keyboard shortcuts in content scripts, including modifiers, that can be listed and executed with the browser action menu
 
-_Requires:_
+Tested through **Chrome 72**
 
-**chrome-extension-port-communications** [GitHub](https://github.com/dkline03/chrome-extension-port-communications)
+Requires **chrome-extension-port-communications** [GitHub](https://github.com/dkline03/chrome-extension-port-communications)
 
-**jQuery** - tested on 3.3.1, but should work on older versions
+Requires **jQuery** - tested on 3.3.1, but should work on older versions
 
 
 ## Usage 
