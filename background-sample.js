@@ -2,7 +2,7 @@
 //sample background.js functions for receiving keydown events that require the background script to execute
 
 //-requires chrome-extension-port-communications
-//https://github.com/dkline03/chrome-extension-port-communications
+//https://github.com/DKCTC/chrome-extension-port-communications
 
 //the incoming port connection
 var backgroundConnection = new Port();
