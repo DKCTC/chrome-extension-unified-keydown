@@ -2,7 +2,7 @@
 //browseractionmenu functions for listing and triggering the events on the active tab
 
 //-requires jQuery and chrome-extension-port-communications
-//https://github.com/dkline03/chrome-extension-port-communications
+//https://github.com/DKCTC/chrome-extension-port-communications
 
 
 //open connection
