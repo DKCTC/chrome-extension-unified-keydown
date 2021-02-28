@@ -1,10 +1,9 @@
-﻿
 
 //used for adding keyboard shortcuts in content scripts and extension pages that can be listed in and fired from the browseraction menu
 //-include in manifest for content scripts and as a regular script for extension pages
 
 //-requires jQuery and chrome-extension-port-communications
-//https://github.com/dkline03/chrome-extension-port-communications
+//https://github.com/DKCTC/chrome-extension-port-communications
 
 //TODO: make a version that does not require jQuery
 
