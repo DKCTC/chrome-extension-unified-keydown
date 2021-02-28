@@ -3,7 +3,7 @@
 //contentscript/extension page functions for adding new shortcuts and updating the ext-keydown document data obj
 
 //-requires jQuery and chrome-extension-port-communications
-//https://github.com/dkline03/chrome-extension-port-communications
+//https://github.com/DKCTC/chrome-extension-port-communications
 
 
 //add the keydown events to the document keydown data array
